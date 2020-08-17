@@ -20,7 +20,15 @@ The application will allow a user to post a project he/she has created and get i
     Content
     These criteria can be reviewed on a scale of 1-10 and the average score is taken.
 
+# User stories
+As a user, you can:
 
+    View posted projects and their details.
+    Post a project to be rated/reviewed
+    Rate/ review other users' projects
+    Search for projects 
+    View projects overall score
+    View my profile page.
 
 # License
 This project is licenced under the MIT License.
