@@ -10,10 +10,15 @@ The application will allow a user to post a project he/she has created and get i
     - Python 3.6
     - Django MVC framework
     - HTML, CSS and Bootstrap
-    - JavaScript
     - Postgressql
     - Heroku
 
+# A project can be rated based on 3 different criteria
+
+    Design
+    Usability
+    Content
+    These criteria can be reviewed on a scale of 1-10 and the average score is taken.
 
 
 
